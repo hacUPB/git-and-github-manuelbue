@@ -1,3 +1,21 @@
+## 📘 Proyecto: Git y GitHub básico
+
+Este repositorio contiene ejercicios y prácticas para aprender los conceptos fundamentales de Git y GitHub. Aquí encontrarás ejemplos de comandos, archivos de configuración como `.gitignore`, y documentación en formato Markdown sobre el uso de la consola, Git Bash y la sincronización con repositorios remotos.
+
+El objetivo es familiarizarse con el flujo de trabajo usando Git desde la terminal, y entender cómo funcionan los commits, ramas, push, pull, `.gitignore`, y la gestión de repositorios locales y remotos.
+
+## 🧭 Clonar y ejecutar este proyecto
+
+Para obtener una copia local de este repositorio, sigue estos pasos:
+
+1. Abre tu terminal (Git Bash, PowerShell, etc.)
+2. Posiciónate en la carpeta donde quieras clonar el proyecto
+3. Ejecuta el siguiente comando:
+
+bash
+git clone https://github.com/tu-usuario/tu-repo.git
+ 
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SoiS0_7u)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
@@ -81,3 +99,5 @@ El objetivo de esta actividad es crear y estructurar un proyecto de programació
 7. **Entrega:**
     - Sube los cambios en tu proyecto al repositorio remoto en GitHub.
     - Asegúrate de que toda la documentación esté completa y correctamente estructurada.
+[link al documento](../docs/explicacion.md
+)
