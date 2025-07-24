@@ -1,2 +1,2 @@
 # uso consola 
-    primero que todo me enseñaron a loguearme con el global log, posteriormente me enseñaron a moverme en mis archivos despues me enseñaron a crear carpetas con el comando mkdir y en ellas aprendi a crear documentos con el documento touch y editarlos con el comando vim y ya al final lo guardo con el git add y hago checkpoints con el commit para que todo quede guardado
+    primero que todo me enseñaron a loguearme con el global log, posteriormente me enseñaron a moverme en mis archivos despues me enseñaron a crear carpetas con el comando mkdir y en ellas aprendi a crear documentos con el documento touch y editarlos con el comando vim.
