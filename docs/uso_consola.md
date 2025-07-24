@@ -1,2 +1,2 @@
-# uso consola 
-    primero que todo me enseñaron a loguearme con el global log, posteriormente me enseñaron a moverme en mis archivos despues me enseñaron a crear carpetas con el comando mkdir y en ellas aprendi a crear documentos con el documento touch y editarlos con el comando vim.
+# 🖥️ Uso de la consola
+Primero que todo, me enseñaron a loguearme con el comando git config --global. Posteriormente, aprendí a moverme entre carpetas y archivos. Después, me enseñaron a crear carpetas con el comando mkdir, y dentro de ellas aprendí a crear documentos con el comando touch y a editarlos usando vim.
