@@ -1,3 +1,30 @@
+## 📘 Proyecto: Git y GitHub básico
+
+Este repositorio contiene ejercicios y prácticas para aprender los conceptos fundamentales de Git y GitHub. Aquí encontrarás ejemplos de comandos, archivos de configuración como `.gitignore`, y documentación en formato Markdown sobre el uso de la consola, Git Bash y la sincronización con repositorios remotos.
+
+El objetivo es familiarizarse con el flujo de trabajo usando Git desde la terminal, y entender cómo funcionan los commits, ramas, push, pull, `.gitignore`, y la gestión de repositorios locales y remotos.
+
+## 🧭 Clonar y ejecutar este proyecto
+
+Para obtener una copia local de este repositorio, sigue estos pasos:
+
+1. Abre tu terminal (Git Bash, PowerShell, etc.)
+2. Posiciónate en la carpeta donde quieras clonar el proyecto
+3. Ejecuta el siguiente comando:
+
+bash
+git clone https://github.com/tu-usuario/tu-repo.git
+
+## 📚 Documentación
+
+| Archivo | Descripción |
+|--------|-------------|
+| [repositorio_local.md](docs/repositorio_local.md)   | Cómo crear y manejar un repositorio local con Git |
+| [repositorio_remoto.md](docs/repositorio_remoto.md) | Cómo conectar y sincronizar con un repositorio remoto en GitHub |
+| [uso_consola.md](docs/uso_consola.md)               | Comandos básicos para navegar y crear archivos desde la consola |
+
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SoiS0_7u)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
 Nombre del estudiante:  
@@ -72,7 +99,7 @@ El objetivo de esta actividad es crear y estructurar un proyecto de programació
     - En la raíz del proyecto, encontrarás un archivo `README.md`, es este mismo que estás leyendo. Lo vas a editar y vas a incluir al inicio del archivo la siguiente información:
         - Una breve descripción del contenido de tu repositorio. Recuerda que los archivos README.md están ahí para explicarle a las personas que vean tu repositorio, de qué se trata y qué contiene.
         - Explica cuáles son los pasos necesarios para clonar y ejecutar el proyecto.
-        - Crea una tabla de contenido con enlaces a los archivos Markdown de la carpeta `docs`.
+        - Crea una tabla de contenido con enlace    s a los archivos Markdown de la carpeta `docs`.
 6. **Uso de Git:**
     - Realiza commits para cada etapa del desarrollo (creación de carpetas, scripts, archivos Markdown, etc.). **Debes realizar mínimo 10 commits.** Los mensajes que utilices deben ser claros, con buena ortografía y con información relevante sobre el cambio que acabas de realizar.
     - Asegúrate de incluir imágenes con pantallazos de los pasos que realices cuando añadas elementos a tu repositorio y de los comandos de Git que utilices y su resultado.
@@ -80,3 +107,4 @@ El objetivo de esta actividad es crear y estructurar un proyecto de programació
 7. **Entrega:**
     - Sube los cambios en tu proyecto al repositorio remoto en GitHub.
     - Asegúrate de que toda la documentación esté completa y correctamente estructurada.
+[link al documento](../docs/explicacion.md)
