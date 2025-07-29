@@ -1,0 +1,14 @@
+# Ignorar archivos compilados
+*.class
+*.exe
+*.o
+
+# Ignorar carpetas comunes
+node_modules/
+dist/
+.env
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+rubrica_santiago.txt
